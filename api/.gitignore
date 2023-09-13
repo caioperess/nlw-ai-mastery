@@ -17,7 +17,7 @@ dist-ssr
 *.db
 
 # Temp
-tmp/*
+!tmp/.gitkeep
 *.mp3
 
 # Editor directories and files
